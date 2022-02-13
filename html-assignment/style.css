@@ -6,3 +6,7 @@
 #pictureOfMe {
     float: right;
 }
+
+#textAboutMe {
+    float: left;
+}
