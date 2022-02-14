@@ -21,14 +21,3 @@
     background-color: black;
 	width: 250px;
 }
-#menu a{
-	color: white;
-}
-#menu a:hover{
-	color: white;
-}
-#menu{
-	text-align: center;
-	padding-top: 10px;
-	font-size: 18px;
-}
