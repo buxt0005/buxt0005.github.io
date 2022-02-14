@@ -3,11 +3,3 @@
     color: red;
 }
 
-#pictureOfMe {
-    float: right;
-}
-
-#textAboutMe {
-    float: left;
-    margin-top: -100%;
-}
