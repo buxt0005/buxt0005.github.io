@@ -1,12 +1,12 @@
 #sidebar{
     background-color: black;
-	width: 30%;
+	width: 40%;
 	height: 100%;
 	top: 0px;
 	left: 0px;
-	
 }
-#content{
+
+    #content{
 	background-color:black;
 	width: 960px;
 	height: 100%;
@@ -20,4 +20,7 @@
 #logo img{
     background-color: black;
 	width: 250px;
+}
+#heading {
+
 }
