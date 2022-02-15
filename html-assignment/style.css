@@ -9,6 +9,8 @@
 }	
 #heading{
     text-align: center;
+    position: absolute;
+    left: 35%;
 }
 #sidebar{
     background-color: black;
