@@ -1,0 +1,25 @@
+
+#content{
+	width: 100%;
+	height: 100%;
+	top: -5%;
+	left: 28%;
+	position: absolute;
+	color: white;
+}	
+#heading{
+    text-align: center;
+}
+#sidebar{
+    background-color: black;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+}
+body {
+	background-color: black;
+	color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+	
+}
