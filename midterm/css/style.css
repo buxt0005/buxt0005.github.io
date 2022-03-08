@@ -19,6 +19,11 @@
 	position: fixed;
     word-wrap: normal;
 }
+.images {
+    position: absolute;
+    width: 45%;
+    height: 45%;
+}
 
 body {
 	background-color: black;
