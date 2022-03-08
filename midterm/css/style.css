@@ -12,12 +12,7 @@
     background: "images/mcrLogo.png";
 }
 
-#sidebar{
-    background-color: black;
-	width: 70%;
-	height: 100%;
-	position: absolute;
-}
+
 .images {
     position: absolute;
     width: 45px;
