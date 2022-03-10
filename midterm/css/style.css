@@ -16,7 +16,7 @@ nav{
 	background-color:#997799;
 	text-align: center;
 	margin-left: 200px;
-	position:absolute;
+	position: fixed;
 }
 
 content{
