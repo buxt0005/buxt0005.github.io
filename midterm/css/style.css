@@ -29,18 +29,3 @@ body{
 	font-family: 'Courier New', Courier, monospace;
 }	
 		
-.link{
-	height:25px;
-	width:33%;
-	color:#660099;
-	float:left;
-}
-
-.link a{
-	color:#FFFFFF;
-	text-decoration:none;
-}
-
-.link a:hover{
-	color: #000000;
-}
