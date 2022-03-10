@@ -15,8 +15,7 @@ nav{
 	height:30px;
 	background-color:#997799;
 	text-align: center;
-	margin-left: 150px;
-	position: fixed;
+	position: absolute;
 }
 
 content{
