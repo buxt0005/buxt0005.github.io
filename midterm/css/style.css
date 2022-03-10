@@ -10,10 +10,9 @@
 	height:40px;
 }
 
-nav{
+#nav{
 	width:960px;
 	height:30px;
-	display: block;
 	background-color:#997799;
 	text-align: center;
 }
