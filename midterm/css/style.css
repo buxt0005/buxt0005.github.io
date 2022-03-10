@@ -10,10 +10,11 @@
 	height:40px;
 }
 
-#navbar{
+nav{
 	width:960px;
 	height:30px;
 	background-color:#997799;
+	text-align: center;
 }
 
 #content{
