@@ -45,9 +45,14 @@ table {
 	border-spacing: 0;
 }
 */
-.nav {
+#nav {
 	text-align: center;
 }
+
 body {
 	background: white;
+}
+
+.a link:hover{
+	color: black;
 }
