@@ -53,6 +53,12 @@ body {
 	background: white;
 }
 
-.a link:hover{
-	color: black;
+
+.link a{
+	color:#000029;
+	text-decoration:none;
+}
+
+.link a:hover{
+	color: #000029;
 }
