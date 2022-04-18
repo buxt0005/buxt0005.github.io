@@ -54,11 +54,20 @@ body {
 }
 
 
+.link{
+	width:323px;
+	height:25px;
+	text-align:center;
+	padding-left:10px;
+	float:left; 
+	color: black;
+}
+
 .link a{
-	color:#000029;
-	text-decoration:none;
+	color:black;
+
 }
 
 .link a:hover{
-	color: #000029;
+	color: black;
 }
