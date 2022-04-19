@@ -45,12 +45,13 @@ table {
 	border-spacing: 0;
 }
 */
-#nav {
+nav {
 	text-align: center;
 }
 
 body {
 	background: white;
+	width: 1200px;
 }
 
 
