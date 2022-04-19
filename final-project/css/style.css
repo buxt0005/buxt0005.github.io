@@ -52,21 +52,21 @@ nav {
 body {
 	background: white;
 	width: 1000px;
-	margin: 100px;
+	
 	align-items: center;
 
 }
 .link{
-	width:323px;
-	height:25px;
-	text-align:center;
-	padding-left:10px;
-	float:left; 
+	width: 323px;
+	height: 25px;
+	text-align: center;
+	padding-left: 10px;
+	float: left; 
 	color: black;
 }
 
 .link a{
-	color:black;
+	color: black;
 
 }
 
