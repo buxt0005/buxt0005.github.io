@@ -47,9 +47,9 @@ table {
 nav {
 	text-align: center;
 	position: absolute; 
-	margin-left: 600px;
+	margin-left: 550px;
 	background-color: #222;
-	color: red
+	color: red;
 }
 #images {
 	position: absolute;
