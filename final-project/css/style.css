@@ -47,6 +47,7 @@ table {
 */
 nav {
 	text-align: center;
+	position: absolute
 }
 
 body {
@@ -54,6 +55,7 @@ body {
 	width: 1000px;
 	margin: 100px;
 	align-items: center;
+	
 }
 
 
