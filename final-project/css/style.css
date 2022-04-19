@@ -47,14 +47,14 @@ table {
 nav {
 	text-align: center;
 	position: absolute; 
-	margin-left: 50%;
+	margin-left: 600px;
 }
 #images {
 	position: absolute;
 }
 body {
 	background: white;
-	width: 1000px;
+	width: 1200px;
 	position: absolute;
 	align-items: center;
 
