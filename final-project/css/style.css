@@ -60,11 +60,14 @@ nav {
 	background-color: #ffe6ac;
 	width: 1200px;
 }
+
 .topic {
 	display: grid;
+	grid-template-columns: 33%;
 	width: 400px;
 	word-wrap:normal;
 }
+
 body {
 	background: white;
 	width: 1200px;
