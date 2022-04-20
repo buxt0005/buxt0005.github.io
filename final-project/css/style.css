@@ -62,6 +62,7 @@ nav {
 }
 .topic {
 	width: 550px;
+	word-wrap:normal;
 }
 body {
 	background: white;
