@@ -51,12 +51,17 @@ nav {
 	width: 1200px;
 	height: auto;
 }
+
 #images {
 	position: absolute;
 }
-.about{ 
+
+.about { 
 	background-color: #ffe6ac;
 	width: 1200px;
+}
+.topic {
+	width: 400px;
 }
 body {
 	background: white;
