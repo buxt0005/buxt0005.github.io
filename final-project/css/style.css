@@ -54,6 +54,9 @@ nav {
 #images {
 	position: absolute;
 }
+.about{ 
+	background-color: #ffe6ac;
+}
 body {
 	background: white;
 	width: 1100px;
