@@ -61,7 +61,12 @@ nav {
 	width: 1200px;
 }
 
-.services {
+.row-one {
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
+.row-two {
 	display: grid;
 	grid-template-columns: 33% 33% 33%;
 }
