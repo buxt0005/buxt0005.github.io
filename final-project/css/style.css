@@ -66,6 +66,10 @@ nav {
 	grid-template-columns: 33% 33% 33%;
 }
 
+#location {
+	align-items: center;
+}
+
 body {
 	background: white;
 	width: 1200px;
